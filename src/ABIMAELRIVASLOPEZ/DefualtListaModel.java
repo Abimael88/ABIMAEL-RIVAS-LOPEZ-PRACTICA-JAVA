@@ -1,7 +1,0 @@
-
-package ABIMAELRIVASLOPEZ;
-
-
-class DefualtListaModel {
-    
-}
